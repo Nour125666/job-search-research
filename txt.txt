@@ -1,0 +1,202 @@
+# NOUR SOUISSI
+**Embedded Firmware Engineer | STM32 | FreeRTOS | Embedded Linux**
+
+Tunisia | +216 55 397 386 | noursouissi1256@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/nour-souissi-25958a205/) | [GitHub](https://github.com/NourSouissi)
+
+### PROFESSIONAL PROFILE
+
+Electronics Engineer specializing in Embedded Systems, with practical experience in STM32 firmware development, FreeRTOS, embedded communication protocols, hardware testing, and software automation. Experienced in developing an STM32-based intelligent logic analyzer, supporting Battery Management System (BMS) development, and analyzing electronic components and datasheets. Strong foundation in C/C++, Python, embedded Linux, and hardware/software debugging.
+
+### TECHNICAL SKILLS
+
+- **Programming:** C, C++, Python, Bash
+- **Microcontrollers & RTOS:** STM32, FreeRTOS, STM32CubeIDE
+- **Communication Protocols:** UART, I²C, SPI, CAN, Modbus, PMBus, SAE J1939
+- **Embedded Linux:** Linux, Yocto Project, Git, GNU Make
+- **Hardware & Debugging:** STM32 programming, ST-LINK, logic analyzers, datasheet analysis, PCB testing
+- **Additional:** Technical documentation, component selection, automation scripting
+
+### PROFESSIONAL EXPERIENCE
+
+**Electronics Component Sourcing Engineer | STARZ Electronics**  
+*June 2026 – Present*
+
+- Analyze electronic component datasheets, PCB BOMs, and cable-harness specifications to identify technical requirements and compatible alternatives.
+- Support BMS embedded-system development through component research, hardware analysis, and technical troubleshooting.
+- Develop a desktop application for automating component data collection, MPN-based searches, price comparisons, and supplier evaluation.
+- Coordinate technical requirements with suppliers and logistics partners.
+
+**Customer Support Representative — PayPal Account | Transcom**  
+*November 2025 – May 2026*
+
+- Assisted customers with payment transactions, account-related issues, and troubleshooting.
+- Investigated customer inquiries and communicated solutions clearly while following established support procedures.
+
+### ENGINEERING PROJECTS & INTERNSHIPS
+
+**AI-Assisted STM32 Logic Analyzer | Final-Year Internship — CSF**
+
+- Developed an STM32-based logic analyzer integrating edge-computing and AI-assisted analysis capabilities.
+- Used FreeRTOS to schedule communication-frame acquisition and processing.
+- Worked with UART, I²C, SPI, and CAN frame analysis, including interpretation using Modbus, PMBus, and SAE J1939 protocol information.
+
+**STM32 Automated Test Interface | Eleonetech — Summer 2024**
+
+- Developed Python scripts and a LabVIEW interface to control STM32 testing operations through the ST-LINK Utility command-line interface.
+- Automated interactions with STM32 programming and test tools.
+
+### EDUCATION
+
+**Engineering Degree in Electronics — Embedded Systems Specialization**  
+ENET'Com, Sfax | 2022–2025 | Graduated July 2025
+
+**Licence in Electronics, Electrotechnics and Automation**  
+Faculty of Sciences of Bizerte | 2019–2022
+
+### TRAINING & LANGUAGES
+
+**Training:** Embedded Systems Training — Centre Supérieur de Formation (CSF), certificates of completion
+
+**Languages:** Arabic | English (C1) | French (B2)
+
+# NOUR SOUISSI
+**Linux Technical Support | Embedded Linux | C/C++ | Troubleshooting**
+
+Tunisia | +216 55 397 386 | noursouissi1256@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/nour-souissi-25958a205/) | [GitHub](https://github.com/NourSouissi)
+
+### PROFESSIONAL PROFILE
+
+Electronics and Embedded Systems Engineer with a foundation in Linux systems programming, C/C++, embedded Linux, and technical troubleshooting. Combines practical engineering experience with customer-facing support experience on the PayPal account at Transcom. Experienced in Python automation, technical documentation, investigating hardware/software issues, and communicating solutions. Developing advanced Linux expertise through hands-on projects involving system calls, processes, memory management, and command-line debugging.
+
+### TECHNICAL SKILLS
+
+- **Operating Systems:** Linux, Ubuntu, Embedded Linux, Yocto Project
+- **Programming & Scripting:** C, C++, Python, Bash
+- **Linux Development:** POSIX system calls, file descriptors, processes, memory management, ELF fundamentals
+- **Debugging & Tools:** GDB fundamentals, strace, Git, GNU Make, GCC, terminal utilities
+- **Embedded Technologies:** STM32, FreeRTOS, UART, I²C, SPI, CAN
+- **Technical Support:** Issue investigation, troubleshooting, documentation, customer communication, technical research
+
+### PROFESSIONAL EXPERIENCE
+
+**Electronics Component Sourcing Engineer | STARZ Electronics**  
+*June 2026 – Present*
+
+- Investigate technical requirements and compatibility issues by analyzing component datasheets, BOMs, and engineering specifications.
+- Develop a desktop automation application for MPN searches, data extraction, supplier comparison, and component pricing analysis.
+- Support embedded-system development and troubleshooting activities related to BMS hardware.
+- Communicate technical findings and coordinate solutions with suppliers and external partners.
+
+**Customer Support Representative — PayPal Account | Transcom**  
+*November 2025 – May 2026*
+
+- Assisted customers in diagnosing and resolving payment and account-related issues.
+- Investigated customer concerns, explained procedures, and provided clear troubleshooting guidance.
+- Worked in a customer-facing environment requiring communication, accuracy, and structured problem-solving.
+
+### SELECTED TECHNICAL PROJECTS
+
+**Linux Systems Engineering Laboratory | GitHub**
+
+- Developed C applications to explore Linux file descriptors, file offsets, and low-level read/write operations.
+- Practiced debugging and investigating program behavior using Linux command-line utilities and strace.
+- Explored ELF executable structure, process memory sections, and memory-safety issues.
+- Developed a command-line BMS diagnostic application as a practical Linux userspace project.
+
+**Embedded Linux / Yocto Development**
+
+- Worked with Yocto Project build environments, custom layers, and embedded Linux application integration.
+- Explored Linux-based embedded application development and communication with hardware-oriented services.
+
+**STM32 Logic Analyzer | Final-Year Internship — CSF**
+
+- Developed a FreeRTOS-based embedded analysis system for UART, I²C, SPI, and CAN communication.
+- Investigated communication frames and protocol interpretation.
+
+### EDUCATION
+
+**Engineering Degree in Electronics — Embedded Systems Specialization**  
+ENET'Com, Sfax | 2022–2025 | Graduated July 2025
+
+**Licence in Electronics, Electrotechnics and Automation**  
+Faculty of Sciences of Bizerte | 2019–2022
+
+### TRAINING & LANGUAGES
+
+**Training:** Embedded Systems Training — CSF, certificates of completion
+
+**Languages:** Arabic | English (C1) | French (B2)
+
+# NOUR SOUISSI
+**Customer Support Specialist | Technical Troubleshooting | Payment & Account Support**
+
+Tunisia | +216 55 397 386 | noursouissi1256@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/nour-souissi-25958a205/)
+
+### PROFESSIONAL PROFILE
+
+Customer Support Representative with experience assisting PayPal customers through Transcom, handling payment inquiries, account-related issues, and troubleshooting. Combines customer-facing experience with an Engineering Degree in Electronics and Embedded Systems, bringing strong analytical thinking, technical problem-solving, and the ability to explain complex information clearly. Experienced in professional communication, investigating issues, coordinating with external partners, and working with technical information.
+
+### CORE COMPETENCIES
+
+- Customer Service & Communication
+- Payment and Account Issue Resolution
+- Customer Troubleshooting & Problem-Solving
+- Technical Support Fundamentals
+- Issue Investigation & Follow-Up
+- Written and Verbal Communication
+- Technical Documentation
+- Supplier and Stakeholder Coordination
+- Analytical Thinking & Attention to Detail
+- English and French Communication
+
+### PROFESSIONAL EXPERIENCE
+
+**Customer Support Representative — PayPal Account | Transcom**  
+*November 2025 – May 2026*
+
+- Provided customer assistance with PayPal payment transactions, account-related inquiries, and troubleshooting.
+- Investigated customer issues to identify potential causes and communicate appropriate next steps.
+- Explained account and payment procedures in clear, accessible language.
+- Handled customer interactions professionally while following established support processes.
+
+**Electronics Component Sourcing Engineer | STARZ Electronics**  
+*June 2026 – Present*
+
+- Communicate with international suppliers and freight forwarders to coordinate technical requirements, quotations, and procurement activities.
+- Analyze technical documentation to identify product specifications, compatibility issues, and suitable alternatives.
+- Research supplier offers and compare technical and commercial information to support purchasing decisions.
+- Develop a desktop application to automate product research, data extraction, and pricing comparisons.
+- Support internal engineering activities through research, troubleshooting, and technical communication.
+
+### ADDITIONAL TECHNICAL EXPERIENCE
+
+**Embedded Systems Engineering — Internship & Project Experience**
+
+- Developed engineering projects requiring systematic troubleshooting, testing, and problem analysis.
+- Created Python-based automation tools to simplify technical workflows and testing activities.
+- Worked with technical documentation and hardware/software systems.
+- Developed the ability to translate complex technical information into clear, actionable explanations.
+
+### EDUCATION
+
+**Engineering Degree in Electronics — Embedded Systems Specialization**  
+ENET'Com, Sfax | 2022–2025 | Graduated July 2025
+
+**Licence in Electronics, Electrotechnics and Automation**  
+Faculty of Sciences of Bizerte | 2019–2022
+
+### TECHNICAL LITERACY
+
+Linux, Windows, Python, C/C++, Git, technical documentation, data research, software troubleshooting, engineering tools
+
+### LANGUAGES
+
+**Arabic:** Native  
+**English:** C1  
+**French:** B2

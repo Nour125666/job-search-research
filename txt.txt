@@ -402,3 +402,371 @@ Recruitment Room — Embedded/firmware contractor matching (R)
 BairesDev — IoT and embedded engineering contracts (R)
 Altamira.ai — Robotics, drones, embedded systems (R)
 Cynet Systems — Embedded RTOS recruiting (R)
+
+
+
+
+# [Your Name]
+**Embedded Systems Engineer | Firmware • Embedded Linux • Hardware Integration**
+
+Tunisia · International Remote Opportunities  
+[Email] · [LinkedIn] · [GitHub]
+
+## Professional Summary
+Embedded-systems engineer with experience in STM32 development, FreeRTOS, communication protocols, electronics validation, and Linux systems programming. Engineering background combining firmware projects with hardware component evaluation, BMS development support, and Python-based testing. Interested in firmware, embedded Linux, and hardware-software integration roles.
+
+## Technical Skills
+- **Firmware & protocols:** C/C++, STM32, FreeRTOS, UART, I²C, SPI, CAN, Modbus, PMBus, SAE J1939
+- **Linux & development:** Linux CLI, POSIX processes and signals, Bash, Python, Git, Yocto exposure
+- **Hardware & testing:** Datasheet analysis, PCB/BOM review, BMS hardware support, STM32 ST-LINK Utility, LabVIEW, component validation
+
+## Selected Technical Projects
+
+**STM32 Protocol-Aware Logic Analyzer — Engineering Graduation Project**  
+*STM32 · FreeRTOS · UART/I²C/SPI/CAN*
+- Developed an STM32-based logic-analyzer project incorporating FreeRTOS scheduling and serial/CAN protocol analysis.
+- Worked with protocol interpretation involving Modbus, PMBus, and SAE J1939.
+- Integrated embedded firmware and protocol-analysis concepts.
+
+**Linux Systems Engineering Lab — Personal GitHub Portfolio**  
+*C · Linux · POSIX · Git*
+- Implemented Linux userspace exercises covering file descriptors, system calls, process creation, signal handling, and debugging.
+- Developed a UART telemetry exercise and a process-supervision lab with documented testing.
+- Continuing development of multithreading and synchronization exercises.
+
+## Professional Experience
+
+**Electronics Component Sourcing Engineer — Starz Electronics**  
+*June 2026 – Present*
+- Analyze PCB and cable-harness BOMs, component specifications, and datasheets to identify technically compatible parts.
+- Support battery-management-system hardware development through component analysis and selection.
+- Developed a desktop application for part-number research, sourcing information, and price comparison.
+
+**Embedded Systems Engineering Intern — CSF**  
+*Final-Year Engineering Internship*
+- Developed an STM32-based protocol-analysis project using FreeRTOS.
+- Worked with embedded communication interfaces and protocol decoding.
+
+**Engineering Intern — Eleonetech**  
+*Summer 2024*
+- Integrated Python scripts and STM32 ST-LINK Utility CLI with a LabVIEW-based board-testing interface.
+
+**Customer Support Representative — Transcom / PayPal**  
+*November 2025 – May 2026*
+- Investigated customer issues, documented resolutions, and communicated troubleshooting outcomes.
+
+## Education
+**Engineering Degree — Electronics, Embedded Systems**  
+ENET'Com, Sfax · 2025
+
+**Licence — Electronics, Electrotechnics and Automation**  
+Faculty of Sciences of Bizerte · 2022
+
+## Languages
+English — C1 · French — B2 · Arabic
+
+
+# [Full Name]
+**Customer Support Specialist | Technical Support Representative**
+
+Tunisia · Available for International Remote Work
+
+[Email] | [Phone] | [LinkedIn]
+
+## PROFESSIONAL SUMMARY
+
+Customer support professional with experience assisting PayPal customers through Transcom, combined with an engineering degree in Embedded Systems. Experienced in investigating customer inquiries, resolving account and payment-related issues, and communicating solutions clearly. Strong technical aptitude, problem-solving skills, and multilingual communication abilities. Seeking an international remote Customer Support or Technical Support position.
+
+## CORE SKILLS
+
+- Customer Service & Customer Satisfaction
+- Technical Troubleshooting & Problem Resolution
+- Customer Inquiry and Complaint Handling
+- Clear Written and Verbal Communication
+- Case Documentation & Follow-Up
+- Analytical Thinking & Attention to Detail
+- Cross-Functional Communication
+- Independent Work & Time Management
+
+## PROFESSIONAL EXPERIENCE
+
+**Customer Support Representative — Transcom (PayPal Support)**  
+*November 2025 – May 2026*
+
+- Assisted PayPal customers with payment, transaction and account-related inquiries.
+- Investigated customer issues and communicated appropriate resolutions clearly and professionally.
+- Provided support while handling customer concerns and maintaining accurate case information.
+- Applied analytical problem-solving and customer communication skills to resolve service-related difficulties.
+
+**Electronics Component Sourcing Engineer — Starz Electronics**  
+*June 2026 – Present*
+
+- Communicate with international suppliers to clarify technical requirements, quotations and delivery information.
+- Investigate component compatibility and availability through technical documentation and supplier communication.
+- Coordinate follow-ups with suppliers and logistics partners.
+- Developed a desktop tool to simplify component searches and price comparisons.
+
+## EDUCATION
+
+**Engineering Degree in Electronics — Embedded Systems**  
+ENET'Com, Sfax | 2025
+
+**Bachelor's Degree (Licence) in Electronics, Electrotechnics & Automation**  
+Faculty of Sciences of Bizerte | 2022
+
+## LANGUAGES
+
+- English — C1
+- French — B2
+- Arabic — Native
+
+## ADDITIONAL TECHNICAL SKILLS
+
+Linux fundamentals · Python · Basic scripting · Hardware and software troubleshooting · Technical documentation · Git
+
+*Professional references available upon request.*
+
+Remote technical support roles — filtered for worldwide / Tunisia access
+Snapshot: 29 October 2026. Converted from the filtered Excel tracker. This is a research list, not a guarantee that every vacancy remains open or that a contract can be issued in Tunisia.
+
+21 geographically plausible job leads. Includes positions with employer/direct worldwide wording, global non-US wording, or a listing explicitly indicating Tunis. Some roles require substantial experience; two require refreshed vacancy checks. The 200 previously suggested entries appear separately in the audit appendix.
+Filtered leads (21)
+#	Company	Job title	Specialization	Location eligibility	Source confidence	Fit	Important caveat	Job posting	Application status
+1	Canonical	Associate Linux Support Engineer	Linux / OS support	Worldwide	Employer direct	High	Entry/associate; strongest Linux match	View posting	Not applied
+2	Canonical	Graduate Customer Success Manager	Ubuntu technical customer success	Worldwide	Employer direct	High	Graduate track; tickets, onboarding; French helpful	View posting	Not applied
+3	Canonical	Cloud Support Engineer	Linux / technical support	Worldwide	Employer direct	Medium	Stronger cloud/networking skills needed	View posting	Not applied
+4	Canonical	Software Support Engineer	Linux / L2-L3 support	Worldwide	Employer direct	Medium	Advanced debugging and open-source code work	View posting	Not applied
+5	Canonical	Sustaining Operations Engineer	Linux troubleshooting	Worldwide	Employer direct	Medium	Linux infrastructure, diagnostics and operations	View posting	Not applied
+6	Canonical	Software Engineer - L3 Support	Linux / kernel / customer escalations	Worldwide	Employer direct	Low today	Advanced C/Linux patches and backports	View posting	Not applied
+7	Canonical	Software Engineer, Sustaining Engineering	Linux / sustaining	Worldwide	Employer direct	Low today	Significant development/debugging expected	View posting	Not applied
+8	Canonical	Software Engineer, Cloud - Sustaining Engineering	Linux / cloud / sustaining	Worldwide	Employer direct	Low today	Engineering rather than first-line support	View posting	Not applied
+9	Canonical	Software Maintenance Engineer	Linux / software maintenance	Worldwide	Employer roles page	Low today	Worldwide on Canonical current jobs list; direct requisition not established	View posting	Not applied
+10	Canonical	Support Engineering Manager	Linux support leadership	Worldwide	Employer direct	Very low today	Requires managerial experience	View posting	Not applied
+11	Canonical	Enterprise Customer Success Manager	Ubuntu customer success	Worldwide	Employer direct	Medium	Customer-facing, less hands-on than engineering	View posting	Not applied
+12	QuickMail	Technical Customer Support	Technical / DNS / customer support	Anywhere in the World	Original current listing	High	English, customer care, technical troubleshooting; applications deadline Nov 9	View posting	Not applied
+13	Teamup	Customer Support Specialist	Software configuration and troubleshooting	Work from anywhere	Employer direct	High	Broad customer support with technical troubleshooting	View posting	Not applied
+14	Clipboard	Technical Support Engineer	Escalations / troubleshooting / product support	Remote Global - Non U.S.	Employer direct	Medium	Technical investigations; note some SQL and Datadog	View posting	Not applied
+15	Clipboard	Customer Experience Specialist	Customer support / troubleshooting	Remote Global - Non U.S.	Employer direct	High	Payments and customer cases; weekends required	View posting	Not applied
+16	fal	Technical Support Engineer	GPU / AI infrastructure technical support	Remote - Global	Employer direct	Medium	Direct job listing was indexed as global, but the application URL now fails to open; verify opening before applying.	View posting	Needs confirmation
+17	DashRDP	Support Engineer	Infrastructure / server technical support	Work from anywhere	Employer careers	Medium	Technical hosting-support fallback; confirm contract and legitimacy	View posting	Not applied
+18	Ignition, Inc.	MSP Mac Help Desk Guru	End-user IT / device support	Anywhere in the World	Current direct job board	Low today	Requires 5+ years in IT support and ET/PT shift; outside-US pay acknowledged	View posting	Not applied
+19	SKELAR	Customer Support Agent - Dressly	Customer support	Global, Remote	Employer ATS indexed	Medium	Employer listing states Global Remote, but the application URL currently fails; language and live vacancy must be reconfirmed.	View posting	Needs confirmation
+20	SupportYourApp	Customer Support Consultant, hospitality	Customer support / tech-product accounts	Remote - Tunis listed	Employer careers	High	International employer, remote arrangement available from Tunis	View posting	Not applied
+21	SupportYourApp	Customer Support Consultant, French & English	Bilingual customer / product support	Remote - Tunis listed	Employer openings + verified listing	High	Confirm French proficiency expected: C1 may be requested	View posting	Not applied
+
+
+Notes from workbook
+- Old tracker leads audited: 200
+- Geographically plausible leads: 21
+- Previous 200 rows reviewed: 200
+- What qualified: Employer/direct posting says worldwide, global non-US, work from anywhere, OR explicitly Tunis.
+- What did not qualify: US-only, EU-only, country unconfirmed, category-only listing, false worldwide label.
+- Important distinction: Worldwide wording is not a legal guarantee of Tunisian hiring/contract eligibility.
+- Skills: Role fit is a separate assessment; global availability does not mean entry-level.
+- Evidence check: Employer roles and job-board pages should be revisited before applying.
+- Where to apply first: See Apply - Location Checked sheet, sorted by priority.
+- Live vacancy warning: Some company ATS URLs render JavaScript or return errors. Rows marked Needs confirmation must NOT be treated as confirmed open.
+- Count of employer-direct openings: Do not equate the 21 candidate leads with 21 independently verified live vacancies.
+Appendix — audit of the original 200 job leads
+Do not treat this appendix as 200 eligible openings. These are the previous list entries and why they were excluded or replaced; no new independent verification is implied by exporting them to Markdown.
+Original #	Company / role	Previously claimed geography	Previous source type	Old listing	Audit disposition	Reason
+1	Canonical — Associate Linux Support Engineer	Worldwide	Employer direct	Previous source	Replaced by independently checked lead	Worldwide label or geography not independently established at employer level
+2	Canonical — Cloud Support Engineer	Worldwide	Employer direct	Previous source	Replaced by independently checked lead	Worldwide label or geography not independently established at employer level
+3	Canonical — Software Support Engineer	Worldwide	Employer direct	Previous source	Replaced by independently checked lead	Worldwide label or geography not independently established at employer level
+4	Runpod — Technical Support Engineer (L2)	EMEA; Tunisia unconfirmed	Employer direct	Previous source	Removed from worldwide list	Country scope missing or uncertain; not counted as worldwide
+5	Mensch und Maschine — Technical Support - ECAD Software (m/w/d)	Board says worldwide; German	Specific job-board page	Previous source	Removed from worldwide list	Worldwide label or geography not independently established at employer level
+6	Auditdata — Technical Support Specialist (L2/L3)	Worldwide (board)	Specific job-board page	Previous source	Removed from worldwide list	Worldwide label or geography not independently established at employer level
+7	NISC — Information Security & Technical Support Teams	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+8	TechBiz Global — L2/L3 Linux Technical Support Engineer – Web Hosting	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+9	Ultahost — Technical Support Engineer L2	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+10	Xperteez Technology — Computer User Support Specialists | Remote - Contract	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+11	DistantJob — Level 3 IT Systems Engineer	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+12	DistantJob — Level 3 MSP Engineer	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+13	Lam Research — Regional Product Support	Japan-based remote	Employer direct	Previous source	Removed from worldwide list	Country scope missing or uncertain; not counted as worldwide
+14	DeepHealth — Technical Support Engineer	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+15	DeepHealth — Technical Services Engineer	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+16	Spotter Labs — Afterhours Driver Support Specialist	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+17	Innovise IT LLC — Product Support Engineer - Wind River Linux	Country unclear; likely US W2	Specific job-board page	Previous source	Removed from worldwide list	Geographic eligibility not demonstrated for Tunisia
+18	Synopsys — Technical Support Engineer, Sr. Engineer	USA only	Employer direct	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+19	Nextracker — Application Engineer - Solar Inverter and PCS	USA; remote or hybrid	Specific job-board page	Previous source	Removed from worldwide list	Country scope missing or uncertain; not counted as worldwide
+20	Carrier — Light Commercial Product Support Engineer	Remote; country unconfirmed	Specific job-board page	Previous source	Removed from worldwide list	Country scope missing or uncertain; not counted as worldwide
+21	Avenga — Senior Technical Support Engineer – Embedded Linux & RTOS	USA only	Employer direct	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+22	Webflow — IT Support Specialist	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+23	ABB E-mobility — Technical Support Specialist (Remote Service Engineer)	France only	Specific job-board page	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+24	Growatt New Energy — Technical Support Engineer (Solar Inverter + EVCS + Portable Power Station)	Pakistan only	Specific job-board page	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+25	SprintRay — Bilingual Customer Support Technical Representative – French & English	USA only	Specific job-board page	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+26	Dragos — Associate Technical Support Engineer - EMEA	Europe only (excludes Tunisia per listing)	Specific job-board page	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+27	MicromallNZ — Technical Support Specialist – Electrical Background Required	Philippines only	Specific job-board page	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+28	Canonical — Software Engineer - L3 Support	Worldwide (board)	Job board category	Previous source	Replaced by independently checked lead	Not an individually verified active worldwide job; category/careers index only
+29	Canonical — Software Maintenance Engineer	Worldwide (board)	Job board category	Previous source	Replaced by independently checked lead	Not an individually verified active worldwide job; category/careers index only
+30	Canonical — Sustaining Operations Engineer	Worldwide	Employer role list	Previous source	Replaced by independently checked lead	Not an individually verified active worldwide job; category/careers index only
+31	Canonical — Software Engineer, Sustaining Engineering	Worldwide (board)	Job board category	Previous source	Replaced by independently checked lead	Not an individually verified active worldwide job; category/careers index only
+32	Flipper Devices — Support Manager	Global remote	Employer direct	Previous source	Removed from worldwide list	Worldwide label or geography not independently established at employer level
+33	Crestron Electronics — Advanced Technical Support Group Engineer	USA; travel required	Job board category	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+34	Rockbot — Tier 2 Technical Support Specialist	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+35	Mode Mobile — Customer Success Associate (Remote)	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+36	SprintRay — Customer Support Technical Representative	USA only	Specific job-board page	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+37	Plukon Food Group — Technical Application & Integration Support Engineer	Worldwide (board)	Specific job-board page	Previous source	Removed from worldwide list	Worldwide label or geography not independently established at employer level
+38	Metasys — Support Engineer Internship	Worldwide (board)	Specific job-board page	Previous source	Removed from worldwide list	Worldwide label or geography not independently established at employer level
+39	6sense — IT Support Specialist	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+40	SupportYourApp — Customer Care Consultant (tech clients)	Country-dependent, including Morocco	Employer careers page	Previous source	Removed from worldwide list	Geographic eligibility not demonstrated for Tunisia
+41	QuickMail — Technical Customer Support	Worldwide (board)	Job board category	Previous source	Replaced by independently checked lead	Not an individually verified active worldwide job; category/careers index only
+42	Raenest Business — Technical Support Specialist	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+43	Mayflower — Technical Support Specialist	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+44	CookUnity — Product Support Engineer	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+45	eMoney Advisor — Client Support Specialist	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+46	Wirex — Help Desk Agent	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+47	Offshore Launch — Support Engineer (L2) — Developer Track | SaaS Startup	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+48	Coconut — Onboarding Engineer - Job Code: 1790976935573	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+49	Alpaca — Production Support Engineer	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+50	Samhammer — Mitarbeiter im technischen Support - 2nd Level	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+51	SupportYourApp — (fluent English & French) Customer Support Consultant	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+52	SafetyWing — AI Support Operations Specialist	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+53	SUPPLAX — Team Lead Customer Support	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+54	RouteOne — Team Lead, Customer Support	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+55	micro1 — Customer Service Expert	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+56	DistantJob — Bilingual (French/English) Back-Office Coordinator	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+57	Spotter Labs — Junior Dispatcher (Remote) | USA Trucking	Worldwide board; US trucking hours	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+58	VendueTech — Operations Associate - Worldwide, Part Time	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+59	Onepilot — Kundenbetreuer	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+60	CMX Solutions — Freelancer im Kundenservice im Home Office	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+61	Alloy — Technical Support Engineer, Triage & Discovery	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+62	Growe — Customer Support Representative	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+63	Mode Mobile — Sr. Fraud Analyst (Remote)	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+64	Turnkey — Technical Support Engineer (PT time zone)	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+65	Bookyourdata — Customer Support Specialist	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+66	PrimeXBT — Customer Service Representative (English)	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+67	Supabase — Support Engineer (AMER - Weekends)	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+68	Polymarket — In-House Support Operations	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+69	Allium — Customer Support Analyst	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+70	Ashby — Product Support Engineer - EMEA	EMEA; Tunisia unconfirmed	Specific job-board page	Previous source	Removed from worldwide list	Country scope missing or uncertain; not counted as worldwide
+71	Tek Inspirations — Senior VxWorks / Embedded RTOS Support Engineer	USA only	Specific job-board page	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+72	Intel / Jobgether — Senior Embedded Systems Support Engineer (Simics)	USA only	Specific job-board page	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+73	Interlaced — IT Support Technician II - Remote	USA only	Job board category	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+74	Appodeal — Senior Technical Operations Engineer (part-time)	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+75	Flag Theory — Customer Onboarding Specialist for Company Incorporations	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+76	Freshly Commerce — Technical Support Specialist	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+77	Mercury — Customer Support Specialist	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+78	Elation Health — Case Resolution Engineer	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+79	Limitless Technology — Japanese Speaking Customer Service Agent - Netflix Japan	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+80	Ada — Technical Support Advisor	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+81	Tenable — Technical Support Engineer (West Coast)	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+82	Roboflow — Named Technical Support Engineer	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+83	Synthesia — Technical Support Specialist - German Speaking	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+84	Lightspeed Commerce — Technical Support Specialist (Hospitality) German speaking	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+85	QuickNode — Technical Support Engineer	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+86	Ignition, Inc. — MSP Mac Help Desk Guru (work from home)	Anywhere in the World (US timezone; 5+ years IT support)	Specific job-board page	Previous source	Replaced by independently checked lead	Geographic eligibility not demonstrated for Tunisia
+87	FormFactor — Sr Principal Technical Support Engineer	USA only	Specific job-board page	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+88	Philips — Remote Support Engineer — Monitoring & Connected Care	Europe / EMEA	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+89	Canonical — Software Engineer, Cloud - Sustaining Engineering	Worldwide (board)	Job board category	Previous source	Replaced by independently checked lead	Not an individually verified active worldwide job; category/careers index only
+90	Nihon Kohden America — Technical Support Engineer — Medical Devices	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+91	Fortive — Technical Customer Support	Brazil only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+92	Envista — Technical Support Specialist	Spain only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+93	Motive — Technical Support Engineer — MM/CMRL	Pakistan only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+94	SAJ — Technical Support Engineer — Solar Inverters	Italy only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+95	Repligen — Technical Support Engineer II	India only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+96	Henry Schein — Technical Sales Support	Thailand only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+97	Fortive — Technical Customer Support Tier 1	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+98	Daikin Applied — Technical Support Analyst — Commercial HVAC	Mongolia only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+99	Town Web — Senior Support Engineer	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+100	Alloy — Senior Technical Support Engineer	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+101	Porkbun — Live Technical Support Representative — Remote US	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+102	Mixmax — Billing Support Analyst - Philippines	Philippines only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+103	Nash — Technical Support Specialist, AU	Australia or UK only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+104	Nash — Technical Support Specialist, UK	Australia or UK only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+105	Porkbun — Live Technical Support Representative — Full-Time — $40k	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+106	Canonical — Support Engineering Manager	Worldwide	Employer role list	Previous source	Replaced by independently checked lead	Not an individually verified active worldwide job; category/careers index only
+107	Hospitable.com — Technical Support Engineer — Americas / EMEA	US listing; possible other regions	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+108	PostHog — Technical Support Engineer	US / EU	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+109	CI&T — Mid-Level Support Engineer L3 — Java/Spring	Brazil only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+110	OpenRouter — Enterprise Support Engineer	USA West Coast	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+111	Mycronic — Applications Service Engineer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+112	Mycronic — Field Service Engineer — Robotics	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+113	Zimperium — Technical Product Support Engineer — Mobile Device Cybersecurity	India only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+114	Magnet Forensics — Technical Support Engineer	UK only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+115	JetSupport — Engine Technical Advisor	Canada only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+116	Repligen — Technical Support Engineer I	Germany only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+117	Packsize — Technical Support Engineer	Netherlands only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+118	ConnectWise — Technical Support Specialist II	Philippines only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+119	RIB Software — Technical Support Specialist	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+120	Nextiva — Technical Support Specialist — Night Shift	Ukraine only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+121	Jamf — Technical Customer Support Associate — Night / Weekend	Poland only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+122	Pro Coffee Gear — Head of Customer Success - Remote/Worldwide	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+123	Magnet Forensics — Senior Technical Support Engineer	UK only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+124	Mozilla — Staff Technical Support Manager, Enterprise	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+125	US Cloud — Associate Technical Account Manager	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+126	Koronet — Customer Support Sr Manager	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+127	MGID — Global Support Manager	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+128	Passion.io — Technical Customer Success Manager (Creator Economy)	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+129	Passion.io — Customer Success Manager (Global Remote | SaaS)	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+130	Camunda — Technical Account Manager - Nordics	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+131	THE/STUDIO — Customer Success Manager (Individual Contributor)	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+132	HYROS — Worldwide - Customer Success Manager – High-Touch Onboarding	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+133	New Level Work — Customer Success Manager	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+134	BitGo — Customer Success Manager	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+135	Canonical — Enterprise Customer Success Manager	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+136	Canonical — Graduate Customer Success Manager	Board Worldwide—verify country	Job-board category listing	Previous source	Replaced by independently checked lead	Not an individually verified active worldwide job; category/careers index only
+137	OpenZeppelin — Program Manager (Customer Success)	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+138	Alpaca — Director, Customer Experience, Trading API	Board Worldwide—verify country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+139	Accela — Technical Support Engineer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+140	EasyPost — Technical Support Engineer III	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+141	Medius — Technical Support Engineer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+142	Runpod — Technical Support Engineer L1	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+143	Hitachi — Technical Support Engineer — Federal	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+144	StrangeBee — Technical Support Engineer — East Coast	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+145	SPS Commerce — Associate Technical Support Engineer	Philippines only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+146	Secure Code Warrior — Technical Support Engineer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+147	Full Scale — Technical Support Engineer	Philippines only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+148	Sigma Software Group — Technical Support Engineer — Cybersecurity Platform	Brazil only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+149	blueAPACHE — Support Operations Engineer	Sri Lanka only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+150	Tufin — Technical Support Engineer L2	Romania only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+151	Withflex — Support Engineer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+152	SAIC — Application Support Analyst	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+153	ServiceRocket — Docker Support Engineer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+154	Gruve — Technical Support Engineer	India only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+155	Gruve — Technical Support Engineer — Unity Software	India only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+156	Happyco — Level 2 Support Representative	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+157	Wills Consultants — Application Support Engineer	UK only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+158	Entrata — Technical Support Representative	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+159	SAIC — PKI Software Support	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+160	Very Good Security — Technical Support Engineer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+161	Veeva Systems — Product Support Engineer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+162	Netomi — Product Support Engineer — AI Platform	India only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+163	Matillion — Professional Services Engineer	Australia only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+164	Included Health — Technical Support Advocate I	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+165	Getwingapp — Technical Support Representative	India only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+166	Extreme Networks — Premier Resident Engineer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+167	Endpoint Clinical — Lead Production Support	India only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+168	Crypto.com — Application Support Engineer — OEX	Canada only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+169	BlueCat Networks — Enterprise Support Engineer — DNS	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+170	Workleap — IT Technical Support — 6-Month Contract	Canada only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+171	ShareGate — IT Technical Support — 6-Month Contract	Canada only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+172	Sureify — Technical Support Analyst	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+173	Toplent — Technical Support Specialist	Indonesia only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+174	Hireframe — Technical Support Specialist	Colombia only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+175	Toplent — Technical Support Expert	South Africa only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+176	WELLSTAR — Tier 1 Technical Support Analyst	Canada only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+177	Helm Operations — Technical Support Specialist	Philippines only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+178	KonnectHub — Technical Support Representative JO-202540	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+179	LeadVenture — Technical Support Specialist	Mexico only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+180	Pavago — Technical Support Specialist	UAE only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+181	Jobs for Humanity — Technical Support	Egypt only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+182	ServiceTitan — Technical Support Specialist — Back Office	Canada only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+183	Clubessential — Technical Support Specialist I, Office (CE)	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+184	Boldr — Technical Support Advocate T1	Philippines only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+185	TheHiveCareers — Technical Support Officer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+186	Net Health — Technical Support Representative I (Remote)	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+187	Turnitin — Technical Support Representative Tier 1	Mexico only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+188	G2 Risk Solutions — Technical Support Engineer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+189	IBMC — Technical Support Engineer	Indonesia only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+190	Turnitin — Technical Support Representative Tier 1 (Pooling)	Philippines only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+191	Koast.ai — Head of Technical Support	Remote—check country	Job-board category listing	Previous source	Removed from worldwide list	Not an individually verified active worldwide job; category/careers index only
+192	FormFactor — Director, Technical Support Engineering	USA only	Specific job-board page	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+193	Rad AI — Senior Technical Support Engineer — Overnight PST	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+194	Fifth Third Bank — Senior Technical Engineer	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+195	SentinelOne — Staff Technical Support Engineer — Windows and Identity	Czech Republic only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+196	Smile Digital Health — Senior Application Support Engineer	Canada only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+197	Entrata — Senior Technical Support Representative	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+198	ScaleOps — Technical Account Manager Lead	USA only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+199	Granicus — Senior Technical Support Representative	Puerto Rico only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
+200	Boldr — Senior Technical Support Advocate	Philippines only	Job-board category listing	Previous source	Removed from worldwide list	Country-restricted: not a worldwide role
